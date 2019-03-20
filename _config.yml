@@ -1,11 +1,11 @@
 # Site settings
-title: Marmara Esn
-SEOTitle: Marmara Esn | Blog
+title: ESN Marmara
+SEOTitle: ESN Marmara | Blog
 header-img: img/Wallpaper-003.jpg
 email: yasin.toy@yandex.com
-description: "Marmara Esn"
-keyword: "esn, marmara"
-url: "http://blog.esnmarmara.github.io"              # your host, for absolute URL
+description: "ESN Marmara"
+keyword: "ESN, marmara"
+url: "http://blog.ESNmarmara.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,7 +14,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: True
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
-twitter_username:   esnmarmara
+twitter_username:   ESNmarmara
 facebook_username:  ESNmarmara1
 
 
@@ -60,7 +60,7 @@ disqus_username: yasintoy
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "#EsnMarmaraCokGuzel"
+sidebar-about-description: "#ESNMarmaraCokGuzel"
 sidebar-avatar: /img/marmara-logo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
