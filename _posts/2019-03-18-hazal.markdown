@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello Blog"
-subtitle:   "First Blog Post"
+title:      "Erasmus Sweetheart"
+subtitle:   "My Erasmus Experiences"
 date:       2019-03-20 13:00:00
 author:     "Hazal"
 header-img: "img/post-bg-2015.jpg"
