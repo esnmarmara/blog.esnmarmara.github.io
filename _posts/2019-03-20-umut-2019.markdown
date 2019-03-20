@@ -2,7 +2,7 @@
 layout:     post
 title:      "My Erasmus Experiences"
 subtitle:   "Umut Kartal"
-date:       2019-20-03 12:00:00
+date:       2019-03-20 12:00:00
 author:     "Umut Kartal"
 header-img: "img/post-bg-2015.jpg"
 tags:
